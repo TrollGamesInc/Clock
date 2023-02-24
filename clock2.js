@@ -26,4 +26,4 @@ function showTime() {
 			.innerHTML = currentTime;
 }
 showTime();
-text-align: center
+style = "text-align: center"
