@@ -1,4 +1,3 @@
-<center>
 	setInterval(showTime, 1000);
 function showTime() {
 	let time = new Date();
@@ -27,4 +26,4 @@ function showTime() {
 			.innerHTML = currentTime;
 }
 showTime();
-</center>
+text-align: center
